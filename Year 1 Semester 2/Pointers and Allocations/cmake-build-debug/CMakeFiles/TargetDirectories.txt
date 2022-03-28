@@ -1,0 +1,9 @@
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/meoweden.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/project2-Q3.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/Y1S2project2.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/project2-Q2.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/meow.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/project2-Q1A.dir
+/Users/edenbar/CLionProjects/Y1S2project2/cmake-build-debug/CMakeFiles/project2-Q1B.dir
