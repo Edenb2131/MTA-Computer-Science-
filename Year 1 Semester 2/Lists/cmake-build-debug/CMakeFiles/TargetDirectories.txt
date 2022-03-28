@@ -1,0 +1,12 @@
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q3e.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q3b.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q3c.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q2c.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q1.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q2b.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q2d.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q2a.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Q3a.dir
+/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/CMakeFiles/Y1S2Project3.dir

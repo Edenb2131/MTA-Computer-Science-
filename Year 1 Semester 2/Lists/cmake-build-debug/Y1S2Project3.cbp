@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Y1S2Project3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3e">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3e"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3e/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3e" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3e/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3b">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3b/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3c">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3c/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2c">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2c/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q1">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q1/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2b">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2b"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2b/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2b" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2b/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2d">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2d"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2d/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2d/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2a">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2a"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q2a/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q2a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q2a/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3a">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3a"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Q3a/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Q3a/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Y1S2Project3">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Y1S2Project3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Y1S2Project3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Y1S2Project3/fast">
+				<Option output="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Y1S2Project3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 Y1S2Project3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q1.c">
+			<Option target="Q1"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q2a.c">
+			<Option target="Q2a"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q2b.c">
+			<Option target="Q2b"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q2c.c">
+			<Option target="Q2c"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q2d.c">
+			<Option target="Q2d"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q3a.c">
+			<Option target="Q3a"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q3c.c">
+			<Option target="Q3c"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q3d.c">
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/Q3e.c">
+			<Option target="Q3e"/>
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/cmake-build-debug/Q3b.c">
+			<Option target="Q3b"/>
+			<Option target="Q1"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/main.c">
+			<Option target="Y1S2Project3"/>
+		</Unit>
+		<Unit filename="/Users/edenbar/CLionProjects/Y1S2Project3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
