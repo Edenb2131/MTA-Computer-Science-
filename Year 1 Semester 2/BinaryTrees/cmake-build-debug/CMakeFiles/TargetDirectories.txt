@@ -1,0 +1,4 @@
+/Users/edenbar/CLionProjects/Y1S2project4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/edenbar/CLionProjects/Y1S2project4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edenbar/CLionProjects/Y1S2project4/cmake-build-debug/CMakeFiles/Q1.dir
+/Users/edenbar/CLionProjects/Y1S2project4/cmake-build-debug/CMakeFiles/Y1S2project4.dir
